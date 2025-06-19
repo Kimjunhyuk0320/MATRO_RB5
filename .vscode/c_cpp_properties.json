@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/junhyuk/install/my_first_package_msgs/include/**",
+        "/home/junhyuk/install/motor_control_interfaces/include/**",
+        "/home/junhyuk/motor_ws/install/motor_control_interfaces/include/**",
+        "/home/junhyuk/ros2_study/install/my_first_package_msgs/include/**",
+        "/home/junhyuk/ros2_ws/install/motor_control_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
